@@ -1,4 +1,4 @@
-Project about work with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+More about Beautiful Soup [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
 You can just run `python3 -m http.server` in a directory 
 with this file to be able to test 
