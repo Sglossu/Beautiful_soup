@@ -6,7 +6,7 @@ my little prank in a browser. Just open
 http://127.0.0.1:8000/evilcorp.html and you'll see the form yourself. 
 ___
 
-Python script 'exploit.py' that do several things:
+Python script 'exploit.py' do several things:
 
 - First, page title changes (in `<title>` tags) to "Evil Corp - Stealing 
   your money every day"
